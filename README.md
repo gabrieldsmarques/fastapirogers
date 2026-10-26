@@ -1,5 +1,5 @@
-#Trabalho: To do list com fastapi
-#Nome: Gabriel da Silva Marques
+# Trabalho: To do list com fastapi
+# Nome: Gabriel da Silva Marques
 
 para rodar (precisa de uv instalado): 
 
